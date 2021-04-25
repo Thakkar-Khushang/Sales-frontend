@@ -1,0 +1,41 @@
+#legend{
+    background-color: rgba(0, 0, 0, 0.2);
+    font-size: large;
+    max-width: 30vw;
+    margin:auto;
+}
+#Featured{
+    font-family: 'Playfair Display', serif;
+}
+
+#carousel{
+    padding:2rem;
+    bottom:1vw;
+    max-height:50vh;
+    width:80vw;
+    object-fit: cover;
+
+}
+
+hr.style-seven {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+#MainSection{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+    padding:10px;
+}
+
+#GridElement{
+    margin-top:1rem;
+    background-color:rgba(0,0,0,0.01);
+}
+
+#Categories{
+    font-family: 'Playfair Display', serif;
+}
